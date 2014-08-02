@@ -1,8 +1,3 @@
-James Lin
-jl3782@columbia.edu
-302-668-3584
-Infosys Programming Challenge
-
 Sudoku
 
 The program here implements the basics of a Sudoku game
